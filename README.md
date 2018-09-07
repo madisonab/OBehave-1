@@ -1,2 +1,2 @@
-# OBehave-1MB
+# OBehave-1
 Andy, Sam, Madison
